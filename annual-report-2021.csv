@@ -1,0 +1,167 @@
+"JURISDICTION","AREA_OF_LAW","YEAR","CATEGORY","ODP_CATEGORY","INCOMING","RESOLVED"
+"Court Of Appeal","Criminal",2021,"Public Order","Public Order",12,5
+"Court Of Appeal","Criminal",2021,"Sexual Offences","Sexual Offences",257,384
+"Court Of Appeal","Criminal",2021,"Theft/Fraud/Robbery","Theft/Fraud/Robbery",187,270
+"Court Of Appeal","Criminal",2021,"Other","Other",250,137
+"District Court","Criminal",2021,"Other","Other",51704,38340
+"District Court","Criminal",2021,"Sexual","Sexual",4277,4477
+"Circuit Court","Criminal Appeals",2021,"Drugs","Drugs",1075,1005
+"Central Criminal Court","Criminal",2021,"Rape (Including Attempted Rape)","Rape (Including Attempted Rape)",1348,537
+"Special Criminal Court","Criminal",2021,"Threaten To Kill","Threaten To Kill",0,1
+"Circuit Court","Criminal",2021,"Drugs","Drugs",3310,3579
+"Circuit Court","Criminal",2021,"Firearms","Firearms",930,962
+"Central Criminal Court","Criminal",2021,"Other","Other",148,69
+"Special Criminal Court","Criminal",2021,"Theft","Theft",0,3
+"Court Of Appeal","Criminal",2021,"Firearms/Weapon/Possession Of Explosives/Ammunition","Firearms/Weapon/Possession Of Explosives/Ammunition",26,31
+"District Court","Criminal",2021,"Larceny/Fraud/Robbery","Larceny/Fraud/Robbery",30390,27942
+"Special Criminal Court","Criminal",2021,"Other","Other",131,166
+"Special Criminal Court","Criminal",2021,"Possession Of Firearms/ Ammunition/Explosive Substances","Possession Of Firearms/ Ammunition/Explosive Substances",8,5
+"Court Of Appeal","Criminal",2021,"Assault","Assault",101,94
+"Court Of Appeal","Criminal",2021,"Manslaughter","Manslaughter",3,0
+"Court Of Appeal","Criminal",2021,"Murder","Murder",12,13
+"Circuit Court","Criminal",2021,"Larceny/Fraud/Robbery","Larceny/Fraud/Robbery",7281,5091
+"District Court","Criminal",2021,"Road Traffic","Road Traffic",189317,152345
+"Circuit Court","Criminal Appeals",2021,"Other","Other",1614,1550
+"Circuit Court","Criminal Appeals",2021,"Public Order/Assault","Public Order/Assault",1903,1549
+"Circuit Court","Criminal",2021,"Assault","Assault",1625,1849
+"Circuit Court","Criminal",2021,"Road Traffic","Road Traffic",376,1071
+"Circuit Court","Criminal Appeals",2021,"Road Traffic","Road Traffic",8041,8029
+"Circuit Court","Criminal Appeals",2021,"Sexual","Sexual",17,19
+"Circuit Court","Criminal Appeals",2021,"Larceny/Fraud/Robbery","Larceny/Fraud/Robbery",1640,1731
+"Central Criminal Court","Criminal",2021,"Assault","Assault",60,58
+"Central Criminal Court","Criminal",2021,"Murder (Including Attempted Murder)","Murder (Including Attempted Murder)",47,46
+"Court Of Appeal","Criminal",2021,"Drugs/Misuse Of Drugs","Drugs/Misuse Of Drugs",113,40
+"Court Of Appeal","Criminal",2021,"Rape","Rape",353,180
+"District Court","Criminal",2021,"Public Order/Assault","Public Order/Assault",42587,37422
+"Special Criminal Court","Criminal",2021,"Murder","Murder",6,2
+"Court Of Appeal","Criminal",2021,"Road Traffic","Road Traffic",77,68
+"Circuit Court","Criminal",2021,"Other","Other",2960,3268
+"Special Criminal Court","Criminal",2021,"Membership Of Illegal Organisation","Membership Of Illegal Organisation",0,0
+"Circuit Court","Criminal",2021,"Child Abuse","Child Abuse",52,54
+"Circuit Court","Criminal",2021,"Manslaughter","Manslaughter",2,10
+"Circuit Court","Criminal",2021,"Sexual","Sexual",2140,1907
+"District Court","Criminal",2021,"Drugs","Drugs",35220,29263
+"Central Criminal Court","Criminal",2021,"Sexual Offences","Sexual Offences",1999,607
+"District Court","Family",2021,"Maintenance","Maintenance",5451,4288
+"Circuit Court","Family",2021,"Domestic Violence","Domestic Violence",40,40
+"High Court","Family",2021,"Nullity","Nullity",1,0
+"Circuit Court","Civil",2021,"Examinership","Examinership",3,2
+"High Court","Civil",2021,"Liquidation","Liquidation",75,167
+"High Court","Civil",2021,"Bankruptcy Petitions (Creditors)","Bankruptcy Petitions (Creditors)",21,30
+"District Court","Civil",2021,"Judgments Marked In The Office","Judgments Marked In The Office",6233,3453
+"Circuit Court","Civil",2021,"Judgment Mortgage Certs Issued","Judgment Mortgage Certs Issued",190,190
+"Court Of Appeal","Civil",2021,"Judicial Review (Other)","Judicial Review (Other)",44,56
+"District Court","Civil",2021,"Other","Other",2845,2024
+"Circuit Court","Civil",2021,"Property (Other)","Property (Other)",142,1016
+"High Court","Civil",2021,"District Court To High Court","District Court To High Court",19,17
+"High Court","Civil",2021,"European Arrest Warrants","European Arrest Warrants",357,261
+"High Court","Family",2021,"Judicial Separation","Judicial Separation",20,18
+"High Court","Family",2021,"Adoption","Adoption",45,41
+"High Court","Civil",2021,"Epo Applications","Epo Applications",51,23
+"High Court","Civil",2021,"Judgments Marked In The Office","Judgments Marked In The Office",45,45
+"High Court","Civil",2021,"Deed Poll Applications","Deed Poll Applications",746,746
+"High Court","Civil",2021,"Personal Insolvency","Personal Insolvency",12,14
+"Circuit Court","Civil",2021,"Execution Orders Issued (Court Orders)","Execution Orders Issued (Court Orders)",92,104
+"Circuit Court","Civil",2021,"Satisfaction Piece","Satisfaction Piece",39,39
+"Court Of Appeal","Civil",2021,"Article 40/Habeas Corpus","Article 40/Habeas Corpus",13,7
+"Court Of Appeal","Civil",2021,"Family","Family",9,8
+"Court Of Appeal","Civil",2021,"Insolvency (Corporate)","Insolvency (Corporate)",1,0
+"Court Of Appeal","Civil",2021,"Personal Injury","Personal Injury",46,75
+"Court Of Appeal","Civil",2021,"Proceeds Of Crime Act","Proceeds Of Crime Act",0,4
+"Court Of Appeal","Civil",2021,"Other","Other",33,37
+"District Court","Civil",2021,"Personal Injury","Personal Injury",1070,750
+"High Court","Civil",2021,"Breach Of Contract","Breach Of Contract",246,39
+"High Court","Civil",2021,"Probate: Local Registries","Probate: Local Registries",7588,4782
+"Circuit Court","Family",2021,"Divorce","Divorce",5808,4243
+"High Court","Family",2021,"Dissolution Of Partnership","Dissolution Of Partnership",0,0
+"High Court","Family",2021,"Child Abduction","Child Abduction",32,43
+"Circuit Court","Civil",2021,"Mental Health Applications","Mental Health Applications",114,35
+"High Court","Civil",2021,"Persons Declared Wards Of Court","Persons Declared Wards Of Court",430,323
+"High Court","Civil",2021,"Execution Orders Issued (Judgments)","Execution Orders Issued (Judgments)",124,124
+"High Court","Civil",2021,"Execution Orders Issued (Possession)","Execution Orders Issued (Possession)",6,6
+"Court Of Appeal","Civil",2021,"Commercial","Commercial",18,27
+"Court Of Appeal","Civil",2021,"Company","Company",10,5
+"Court Of Appeal","Civil",2021,"Extradition","Extradition",9,11
+"High Court","Civil",2021,"Commercial","Commercial",152,111
+"High Court","Civil",2021,"Chancery","Chancery",1260,448
+"High Court","Civil",2021,"Judicial Review (Other)","Judicial Review (Other)",843,370
+"District Court","Family",2021,"Family Law (Other)","Family Law (Other)",2196,2122
+"Circuit Court","Family",2021,"Judicial Separation","Judicial Separation",530,274
+"Circuit Court","Family",2021,"Nullity","Nullity",11,10
+"District Court","Civil",2021,"Litigious Enforcement","Litigious Enforcement",1243,1243
+"Circuit Court","Civil",2021,"Licensing","Licensing",161,161
+"Court Of Appeal","Civil",2021,"Bail","Bail",9,11
+"Court Of Appeal","Civil",2021,"Criminal","Criminal",12,11
+"District Court","Civil",2021,"Liquidated Debt","Liquidated Debt",12405,4479
+"Circuit Court","Civil",2021,"Property (Possession)","Property (Possession)",477,435
+"Circuit Court","Civil",2021,"Defamation","Defamation",121,8
+"Circuit Court","Civil",2021,"Employment (Dismissal)","Employment (Dismissal)",2,1
+"High Court","Civil",2021,"Property (Other)","Property (Other)",37,5
+"High Court","Civil",2021,"Assault","Assault",114,23
+"Supreme Court","Supreme Court",2021,"Appeals (Legacy)","Appeals (Legacy)",0,18
+"Supreme Court","Supreme Court",2021,"Applications For Leave","Applications For Leave",149,145
+"District Court","Family",2021,"Guardianship Custody And Access","Guardianship Custody And Access",10016,8667
+"High Court","Family",2021,"Maintenance","Maintenance",0,1
+"High Court","Civil",2021,"Bankruptcy Summonses","Bankruptcy Summonses",34,28
+"District Court","Civil",2021,"Licensing","Licensing",10603,10603
+"Circuit Court","Civil",2021,"Personal Insolvency","Personal Insolvency",2626,2823
+"High Court","Civil",2021,"Enduring Powers Of Attorney","Enduring Powers Of Attorney",1234,1160
+"High Court","Civil",2021,"Bankruptcy Petitions (Self)","Bankruptcy Petitions (Self)",169,169
+"District Court","Civil",2021,"Judgment Mortgage Certs Issued","Judgment Mortgage Certs Issued",256,256
+"Court Of Appeal","Civil",2021,"Constitution","Constitution",1,0
+"Court Of Appeal","Civil",2021,"Judicial Review (Asylum-Related)","Judicial Review (Asylum-Related)",16,23
+"Court Of Appeal","Civil",2021,"Security For Costs","Security For Costs",3,1
+"District Court","Civil",2021,"Small Claims","Small Claims",2134,2503
+"Circuit Court","Civil",2021,"Other","Other",3137,1781
+"High Court","Civil",2021,"Personal Injury","Personal Injury",5145,3576
+"High Court","Civil",2021,"Judgment Mortgage Certs Issued","Judgment Mortgage Certs Issued",249,249
+"High Court","Civil",2021,"Revenue To High Court","Revenue To High Court",23,9
+"High Court","Civil",2021,"Maintenance (Foreign)","Maintenance (Foreign)",20,1
+"District Court","Family",2021,"Domestic Violence","Domestic Violence",22596,21096
+"District Court","Family",2021,"Child Care","Child Care",14038,10695
+"High Court","Family",2021,"Child Care","Child Care",156,15
+"High Court","Civil",2021,"Disqualify Directors","Disqualify Directors",3,3
+"District Court","Civil",2021,"Appeals To District Court","Appeals To District Court",58,35
+"Circuit Court","Civil",2021,"Judgments Marked In The Office","Judgments Marked In The Office",627,602
+"District Court","Civil",2021,"Maintenance (Foreign)","Maintenance (Foreign)",153,127
+"Circuit Court","Civil",2021,"Service Of Documents","Service Of Documents",3558,3558
+"High Court","Civil",2021,"Judgments Registered","Judgments Registered",1414,1414
+"Court Of Appeal","Civil",2021,"Plenary","Plenary",16,18
+"Court Of Appeal","Civil",2021,"Summary Judgment","Summary Judgment",13,39
+"Circuit Court","Civil",2021,"Personal Injury","Personal Injury",8856,5992
+"High Court","Civil",2021,"Property (Possession)","Property (Possession)",71,17
+"High Court","Civil",2021,"Liquidated Debt","Liquidated Debt",773,141
+"High Court","Civil",2021,"Proceeds Of Crime","Proceeds Of Crime",36,40
+"High Court","Civil",2021,"Judicial Review (Asylum-Related)","Judicial Review (Asylum-Related)",360,628
+"High Court","Civil",2021,"Circuit Court To High Court","Circuit Court To High Court",321,92
+"High Court","Civil",2021,"Service Of Documents","Service Of Documents",122,122
+"High Court","Family",2021,"Cohabitation","Cohabitation",3,3
+"District Court","Civil",2021,"Foreign Proceedings (Other)","Foreign Proceedings (Other)",116,116
+"District Court","Civil",2021,"Satisfaction Piece","Satisfaction Piece",111,111
+"Circuit Court","Civil",2021,"Execution Orders Issued (Possession)","Execution Orders Issued (Possession)",35,38
+"Court Of Appeal","Civil",2021,"Chancery","Chancery",50,80
+"Court Of Appeal","Civil",2021,"Insolvency (Personal)","Insolvency (Personal)",12,9
+"Circuit Court","Civil",2021,"Liquidated Debt","Liquidated Debt",1371,922
+"High Court","Civil",2021,"Negligence","Negligence",260,38
+"High Court","Civil",2021,"Defamation","Defamation",109,16
+"High Court","Civil",2021,"Employment (Dismissal)","Employment (Dismissal)",3,3
+"High Court","Civil",2021,"Employment (Other)","Employment (Other)",5,2
+"High Court","Civil",2021,"Garda Compensation","Garda Compensation",60,110
+"High Court","Civil",2021,"Satisfaction Piece","Satisfaction Piece",57,57
+"Circuit Court","Civil",2021,"District Court To Circuit Court ","District Court To Circuit Court ",822,665
+"High Court","Civil",2021,"Bail","Bail",1726,1715
+"Circuit Court","Family",2021,"Dissolution Of Partnership","Dissolution Of Partnership",75,24
+"Circuit Court","Family",2021,"Other","Other",235,25
+"High Court","Family",2021,"Divorce","Divorce",48,43
+"High Court","Civil",2021,"Examinership","Examinership",6,52
+"High Court","Civil",2021,"Restrict Directors","Restrict Directors",15,9
+"Circuit Court","Civil",2021,"Care Representatives","Care Representatives",591,550
+"Circuit Court","Civil",2021,"Marriage Exemption","Marriage Exemption",636,572
+"Circuit Court","Civil",2021,"Execution Orders Issued (Judgments)","Execution Orders Issued (Judgments)",627,602
+"Court Of Appeal","Civil",2021,"Contract","Contract",2,9
+"District Court","Civil",2021,"Property (Other)","Property (Other)",53,78
+"Circuit Court","Civil",2021,"Employment (Other)","Employment (Other)",12,15
+"High Court","Civil",2021,"Regulation Of Professions","Regulation Of Professions",111,87
+"High Court","Civil",2021,"Habeas Corpus","Habeas Corpus",97,67
+"High Court","Civil",2021,"Probate: Principal Registry","Probate: Principal Registry",11184,12045
+"Supreme Court","Supreme Court",2021,"Appeals (Current)","Appeals (Current)",46,59
